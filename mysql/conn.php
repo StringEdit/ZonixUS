@@ -4,7 +4,7 @@
             "site" => [
                 "host" => 'localhost',
                 "username" => 'root',
-                "password" => '',
+                "password" => 'root',
                 "database" => 'gladeye'
             ],
             "luckperms" => [
